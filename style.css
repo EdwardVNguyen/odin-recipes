@@ -1,0 +1,20 @@
+.title {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.cookingboard {
+    display: block;
+    margin: auto;
+    border: solid ;
+}
+
+.button {
+    display: block;
+    margin: 20px auto;
+    padding: 8px;
+    border: 1px ;
+    border-style: outset;
+}
